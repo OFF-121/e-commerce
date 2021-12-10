@@ -1,0 +1,66 @@
+.FooterMainContainerAMN{
+    width:100%;
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    color: white;
+    border-top: 2px solid white;
+}
+
+.meeeeeAMN{
+    width:200px
+}
+
+.FooterContainerAMN{
+    margin: 25px 0;
+    width: 90%;
+    height :200px;
+    display: flex;
+    justify-content: space-evenly;
+    border-right: 1px solid white;
+    border-left: 1px solid white;
+}
+
+.FooterContainerAMN ul{
+    list-style: none;
+    width:180px;
+}
+.hrLineAWN{
+    color:white
+}
+.FooterHeadlineAMN{
+    padding: 10px 0px;
+    font-size: 22px;
+    font-weight: 600;
+    color: rgb(119, 119, 119);;
+}
+#footerIcon{
+    font-size: 18px;
+    padding:5px;
+}
+
+.FooterContainerAMN ul li{
+    padding-top: 5px;
+}
+
+.meeeeeAMN1{
+    color:rgb(119, 119, 119);
+    font-size: 22px;
+}
+
+.meeeeeAMN1,.meeeeeAMN2,.meeeeeAMN3{
+    padding-top: 10px;
+    
+}
+
+
+
+.footerCOntactAWN{
+    display: flex;
+    flex-direction: column;
+}
+
+ .footerCOntactAWNICON{
+     font-size: 20px;
+    padding: 5px;
+}

@@ -1,0 +1,66 @@
+.pravin{
+    font-family: Magneto;
+    font-size: 35px;
+    cursor: pointer;
+}
+
+.navbacrContainer{
+    width:100%;
+    height: 80px;
+    border-bottom: 2px solid white;
+    background-color: black;
+   
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color:white;
+    font-size: 18px;;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 500;
+    
+}
+
+.Link{
+    list-style-type: none;
+    text-decoration: none;
+    padding-left: 60px;
+    color: white;
+    font-size: 18px;
+}
+
+.cartLink{
+    text-decoration: none;
+    width:160px;
+    height:40px;
+    padding: 10px;
+    margin-left: 60px;
+    color: white;
+    font-size: 18px;
+    word-spacing: 10px;
+    border-radius: 20px;
+    background-color: red;
+}
+
+.icon{
+    color: white;
+    font-size: 22px;
+    padding-right:10px;
+}
+
+
+.BtnnumberOfItems{
+    background-color: black;
+    padding: 5px 8px;
+    border-radius: 40%;
+}
+
+.AccountIcon{
+    color: white;
+    font-size: 22px;
+    margin-top: 5px;;
+    padding: 3px;
+}
+
+.headtext{
+    cursor: pointer;
+}

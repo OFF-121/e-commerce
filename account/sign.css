@@ -1,0 +1,54 @@
+.BNKsigninContainer{
+    width: 100%;
+    height:100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #49df82;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.SigninHeaderTxt{
+    width:100%;
+    text-align: center;
+    position: relative;
+    top:20px;
+}
+
+.BNKsigninSubContainer{
+    background-color: black;
+    width:300px;
+    height:400px;
+    display: grid;
+    justify-content: space-evenly;
+    border-radius: 10px;
+}
+
+.bnkSignininside{
+    display: grid;
+    grid-template-columns: auto;
+}
+
+.BnkSigninInput{
+    width:250px;
+    height: 30px;
+    margin-top: -20px;
+}
+
+.BnkSignInBtn{
+    position: relative;
+    top:5px;
+    left:5px;
+    width:250px;
+    height: 45px;
+    color: black;
+    background-color: #49df82;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+}
+
+.bnkSigninForget{
+    font-size: 12px;
+    text-align: center;
+}

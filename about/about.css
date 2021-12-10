@@ -1,0 +1,70 @@
+
+.AboutMainContainer{
+    width: 100%;
+    height: 90vh;
+}
+
+.about-1{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    width:100%;
+    height: 60%;
+}
+
+.abtImg{
+    width:630px;
+}
+
+.UPPERText{
+    width:500px;
+    height:500px;
+    display: grid;
+    grid-template-columns: 150px 450px;
+    grid-template-rows: 70px 150px;
+    grid-gap: 10px;
+    margin-top: 150px;
+    margin-right: 100px;
+}
+
+.upperOne{
+    font-size: 65px;
+    margin-bottom: 10px;
+    grid-column: 1/3;
+}
+
+.upperTwo{
+   font-size: 100px;
+    text-align: right;
+    padding-right: 10px;
+}
+
+.upperFour{
+    font-size: 17px;
+    grid-column: 2/3;
+    text-indent: 50px;
+}
+
+.upperThree{
+    font-size: 17px;
+    grid-column: 2/3;
+    height: 50px;
+    text-indent: 50px;
+}
+
+.about-2{
+    background-color: black;
+    color: white;
+    height: 40%;
+    display: flex;
+    
+    justify-content: space-around;
+}
+
+.down1{
+    width:400px
+}
+
+.downHeading{
+    padding: 10px 0px;
+}

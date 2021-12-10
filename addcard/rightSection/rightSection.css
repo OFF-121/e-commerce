@@ -1,0 +1,35 @@
+.rightContainer{
+   height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    font-family: "Microsoft YaHei UI";
+}
+
+.BillingSection1,.BillingSection2,.BillingSection3{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px ;
+}
+
+.BillingSection1{
+    padding: 20px;
+}
+
+.AmountHeader{
+    padding: 10px;
+}
+
+.BillingSection3{
+    padding-top:40px ;
+}
+
+.CartBuyBtn{
+    margin: 10px;
+    font-size: 15px;
+    width:70px;
+    border-radius: 3px;
+    color: white;
+    background-color: red;
+    font-weight: 500;
+}
